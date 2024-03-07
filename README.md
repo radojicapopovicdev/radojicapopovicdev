@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as Software Engineer at Pollard Digital Solutions<br>🤝 I’m looking for help with<br>🌱 I’m currently learning **Next.js - Backend**<br>👯 I’m looking to collaborate on open source/commercial projects<br>🤔 I’m looking for help with digital marketing to drive traffic to my website<br>💬 Ask me about **Web Development**<br>
+🔭 I’m currently working as **Software Engineer at Pollard Digital Solutions**<br>🤝 I’m looking for help with<br>🌱 I’m currently learning **Next.js - Backend**<br>👯 I’m looking to collaborate on open source/commercial projects<br>🤔 I’m looking for help with digital marketing to drive traffic to my website<br>💬 Ask me about **Web Development**<br>
 
 
 ## 🌐 Socials:
