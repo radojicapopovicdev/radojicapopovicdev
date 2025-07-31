@@ -46,7 +46,7 @@ pnpm · Vercel · Git · Linux · Web APIs
 ## 🔗 Find Me
 - **Email:** radojicapopovicc@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/radojica-popovic/
-- **Portfolio:** dev-folio-3-0.vercel.app
+- **Portfolio:** https://dev-folio-3-0.vercel.app
 
 ## 📦 Quick Start for Collaborators / Recruiters
 - Clone any project: `pnpm install && pnpm dev`  
