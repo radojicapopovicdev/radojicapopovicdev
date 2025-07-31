@@ -5,7 +5,7 @@ Based in Serbia. Open to impactful remote or hybrid roles.
 ## 🚀 What I Do
 - Build and refactor complex developer tools and web applications with minimal logic disruption.  
 - Design and ship full-stack features: Next.js frontends, Node.js/TypeScript backends, PostgreSQL data layers, and scalable API infrastructure.  
-- Prototype, validate, and iterate on MVPs for early-stage products—balancing speed with maintainability.  
+- Prototype, validate, and iterate on MVPs for early-stage products-balancing speed with maintainability.  
 - Mentor/architect tooling around editor experiences, data pipelines, and observability in high-feedback environments.
 
 ## 🛠 Tech Stack
@@ -32,7 +32,7 @@ pnpm · Vercel · Git · Linux · Web APIs
 
 ## 🧪 How I Work
 - **Lift-and-shift refactors** when needed: minimal behavioral change, maximum structural clarity.  
-- **Data-first** feature design: collect, normalize, flag, act—iterating with feedback loops.  
+- **Data-first** feature design: collect, normalize, flag, act-iterating with feedback loops.  
 - **Product-aware engineering:** I don’t just write code; I shape what gets built and why.
 
 ## 📂 Projects (examples)
