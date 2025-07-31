@@ -1,23 +1,64 @@
-# 💫 About Me:
-🔭 I’m currently working as **Software Engineer at Pollard Digital Solutions**<br>🤝 I’m looking for help with<br>🌱 I’m currently learning **Next.js - Backend**<br>👯 I’m looking to collaborate on open source/commercial projects<br>🤔 I’m looking for help with digital marketing to drive traffic to my website<br>💬 Ask me about **Web Development**<br>
+# 👋 Hi, I’m Radojica Popović  
+**Senior Software Engineer** focused on modern full-stack (React / Next.js / TypeScript) systems, scalable backend services, and clean product-minded execution.  
+Based in Serbia. Open to impactful remote or hybrid roles.
 
+## 🚀 What I Do
+- Build and refactor complex developer tools and web applications with minimal logic disruption.  
+- Design and ship full-stack features: Next.js frontends, Node.js/TypeScript backends, PostgreSQL data layers, and scalable API infrastructure.  
+- Prototype, validate, and iterate on MVPs for early-stage products—balancing speed with maintainability.  
+- Mentor/architect tooling around editor experiences, data pipelines, and observability in high-feedback environments.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rpopoviic) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/radojicapopovic) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/rpopovicdev) 
+## 🛠 Tech Stack
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=radojicapopovicdev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=radojicapopovicdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**Frontend:**  
+React · Next.js · TypeScript · Tailwind CSS · CSS-in-JS  
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**Backend / Infra:**  
+Node.js · PostgreSQL · REST APIs · NestJS (familiarity) · Docker · Redis  
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+**Tools:**  
+pnpm · Vercel · Git · Linux · Web APIs  
+
+## 🔍 Selected Highlights
+
+### Senior Software Engineer @ Neobim  
+- Refactored core in-editor tools (e.g., Rotate Tool) into a controller-based architecture while preserving original behavior and improving maintainability.  
+- Solved complex UI/Three.js integration issues involving singletons and multi-instance conflicts.  
+- Delivered robust selection & transformation workflows in a collaborative CAD/editor environment.
+
+### Full Stack & Systems Work  
+- Designed and implemented country-aware phone input systems with real-time validation for assessments (e.g., Libphonenumber integration, auto-detection logic).  
+- Built and deployed modular social media / content tracking prototypes with normalized pipelines, keyword flagging, and RBAC scaffolding.
+
+## 🧪 How I Work
+- **Lift-and-shift refactors** when needed: minimal behavioral change, maximum structural clarity.  
+- **Data-first** feature design: collect, normalize, flag, act—iterating with feedback loops.  
+- **Product-aware engineering:** I don’t just write code; I shape what gets built and why.
+
+## 📂 Projects (examples)
+- **Elden Ring Trivia Engine** – Custom randomized bingo/trivia system for community tournaments.  
+- **PhoneInput Assessment Tool** – Universal phone number validator with locale detection used across multiple forms.  
+- **Social Media Monitoring Prototype** – Public content collector + normalization + keyword intelligence with role-based access.  
+- **Portfolio/Dev-Folio** – Next.js/Tailwind portfolio with About, Experience, Projects, and Resume pages.  
+
+*(Replace above with links to actual repos and add short “What problem it solved” lines.)*
+
+## 🔗 Find Me
+- **Email:** radojica.popovic@example.com *(replace with real)*  
+- **LinkedIn:** [Your LinkedIn profile]  
+- **Portfolio:** *(link to your Next.js portfolio when ready)*  
+
+## 📦 Quick Start for Collaborators / Recruiters
+- Clone any project: `pnpm install && pnpm dev`  
+- Code style: ESLint + Prettier (configured in repo)  
+- Deployment: prefers Vercel for frontends, Docker for backend/dev envs  
+
+## 💬 Open to
+- Full-stack roles with ownership over product/architecture  
+- Early-stage startups and technical first hires  
+- Challenging refactor/scale problems in existing systems
 
 ---
-[![](https://visitcount.itsvg.in/api?id=radojicapopovicdev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+> “I prefer building things from ground up, maintaining existing logic while improving structure, and shipping with clear intent.”  
+
