@@ -18,4 +18,4 @@ Based in Serbia. Open to impactful remote or hybrid roles.
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=radojicapopovicdev&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=radojicapopovicdev)](https://git.io/streak-stats)
