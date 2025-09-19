@@ -16,3 +16,6 @@ Based in Serbia. Open to impactful remote or hybrid roles.
 
 > “I prefer building things from ground up, maintaining existing logic while improving structure, and shipping with clear intent.”  
 
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=radojicapopovicdev&theme=dark)](https://git.io/streak-stats)
