@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Radojica Popović  
-Hi, I’m Radojica Popović — a full-stack TypeScript engineer who ships fast, clean, and well-typed products. I care about readable code, small PRs, and UIs that feel instant. Coffee is my unofficial build step ☕. When things get complex, I simplify, then document.
+Senior FullStack TypeScript engineer who ships fast, clean, and well-typed products. I care about readable code, small PRs, and UIs that feel instant. Coffee is my unofficial build step ☕. When things get complex, I simplify, then document.
 
 Usually with: TypeScript, Next.js, Node/Bun, React.
 
