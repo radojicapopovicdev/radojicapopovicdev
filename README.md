@@ -5,7 +5,7 @@ Tech I enjoy: TypeScript · Next.js · Node.
     
 
 > “I prefer building things from ground up, maintaining existing logic while improving structure, and shipping with clear intent.”  
- 
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=radojicapopovicdev&theme=soft-green&card_width=1200)](https://git.io/streak-stats)
 
  
